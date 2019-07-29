@@ -21,7 +21,7 @@
       "express": "^4.15.3",
       "express-handlebars": "^3.0.0",
       "express-method-override": "0.0.3",
-      "method-override": "^2.3.9",
+      "method-override": "^2.3.10",
       "mysql": "^2.13.0",
       "save": "^2.3.1"
     }
